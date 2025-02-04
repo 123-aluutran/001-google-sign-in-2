@@ -1,13 +1,13 @@
 //
-//  GoogleSignInUITestsLaunchTests.swift
-//  GoogleSignInUITests
+//  MyGoogleSignInUITestsLaunchTests.swift
+//  MyGoogleSignInUITests
 //
 //  Created by An Luu on 2/4/25.
 //
 
 import XCTest
 
-final class GoogleSignInUITestsLaunchTests: XCTestCase {
+final class MyGoogleSignInUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
